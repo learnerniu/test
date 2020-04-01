@@ -1,2 +1,0 @@
-print('HolloWorld')
-print('HolloWorld')
